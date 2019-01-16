@@ -24,3 +24,4 @@ And then execute:
 mocha script.test.js
 ```
 
+You can also debug functions using vscode, just select `mocha test` option at debug section.
